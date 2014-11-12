@@ -33,7 +33,7 @@ Operator      Operation
 
 
 
-When used in this way, +, -, *, and / are called operators. Operators tell Python which mathematical operation on the numbers surrounding them.
+When used in this way, +, -, *, and / are called operators. Operators tell Python which mathematical operation to use on the numbers surrounding them.
 
 Integers and Floating Point Numbers
 

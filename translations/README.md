@@ -14,7 +14,7 @@ CHAPTER 1
 CHAPTER 2
 ---------
 
-* No issues so far.
+* Second sentence on line 36 is incomplete. Suggested change included in commit.
 
 
 CHAPTER 3
